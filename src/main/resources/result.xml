@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:order xmlns:ns2="http://www.example.com/orders" orderid="43a7f694-5de6-4e5e-b60f-a05a858e89af">
+    <product>Spring Boot App</product>
+    <address>
+        <name>Mayor Who</name>
+        <address>234 Short Drive</address>
+        <city>WhoosVille</city>
+        <country>Scandanavia</country>
+    </address>
+</ns2:order>
